@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
 
-<!--
-**victorianizi/victorianizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Victória Nizi 
 
-Here are some ideas to get you started:
+- Estou estudando [Alura](https://www.alura.cpm.br)
+- Estou desenvolvendo na linguagem de JavaScript
+- Utilizo este espaço para miha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Para entrar em contato comigo:
+  email: 00001066479161sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/JKo6Z5x3slYAAAAC/hug-extasyxx.gif)
+ 
